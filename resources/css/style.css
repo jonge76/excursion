@@ -1,15 +1,12 @@
-h1 {
-  font-family: Veranda;
+body {
+  background-color: black;
+  text-align: center;
+  font-family: veranda, geneva, tahoma, sans-serif;
+}
+.header--main {
   font-weight: normal;
   font-size: 50px;
   color: white;
-  text-align: center;
-}
-body {
-  background-color: black;
-}
-p {
-  text-align: center;
 }
 #download {
   color: aquamarine;
